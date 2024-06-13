@@ -3,5 +3,9 @@ public class Main {
         Hello obj = new Hello();
 
         obj.hello();
+        obj.hello();
+        obj.hello();
+        obj.hello();
+
     }
 }
